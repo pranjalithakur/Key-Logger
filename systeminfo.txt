@@ -1,0 +1,42 @@
+Public IP Address: 172.56.160.172
+Processor: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Pranjali
+Private IP Address: 172.20.10.2
+Public IP Address: 172.56.160.172
+Processor: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Pranjali
+Private IP Address: 172.20.10.2
+Public IP Address: 172.56.160.172
+Processor: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Pranjali
+Private IP Address: 172.20.10.2
+Public IP Address: 172.56.160.172
+Processor: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Pranjali
+Private IP Address: 172.20.10.2
+Public IP Address: 172.56.160.172
+Processor: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Pranjali
+Private IP Address: 172.20.10.2
+Public IP Address: 172.56.160.172
+Processor: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Pranjali
+Private IP Address: 172.20.10.2
+Public IP Address: 74.102.91.5
+Processor: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Pranjali
+Private IP Address: 192.168.1.178
