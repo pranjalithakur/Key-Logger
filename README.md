@@ -1,4 +1,4 @@
-# KeyLogger Project
+# Secure KeyLogger: Data Capture and Encryption
 
 ## Overview
 
