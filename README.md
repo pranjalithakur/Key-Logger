@@ -38,6 +38,7 @@ pip install pynput pywin32 Pillow sounddevice scipy cryptography requests
 ```
 
 ## Project Structure
+```
 .
 ├── Cryptography
 │   ├── DecryptFile.py
@@ -51,6 +52,7 @@ pip install pynput pywin32 Pillow sounddevice scipy cryptography requests
     ├── README.md
     ├── screenshot.png
     └── systeminfo.txt
+```
 
 ### **Cryptography Folder**
 - **DecryptFile.py**  
